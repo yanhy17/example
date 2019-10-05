@@ -1,2 +1,2 @@
 This is a test file for GitHub.
-This is a new line.
+This is another new line.
