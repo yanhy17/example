@@ -4,4 +4,4 @@ This is the 3rd new line.
 Add the 4th line. change sth again
 This line is added in a new branch.
 This line is added in branch "master" and "new"
-readme.txt modified in branch dev
+readme.txt NOT modified in branch dev //fix bug No.2
